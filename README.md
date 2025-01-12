@@ -20,7 +20,7 @@
 
 ---
 
-### Linguagens e Tecnologias:
+### Algumas Linguagens:
 
 <div style="display: inline_block"><br>
   <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
@@ -36,7 +36,7 @@
 
 ---
 
-### Shields:
+### Contato:
 
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
