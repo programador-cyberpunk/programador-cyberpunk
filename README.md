@@ -1,4 +1,4 @@
-# 🤖 echo "Hello world, eu sou o Hugo, programador intermediário e aluno do IFSP Guarulhos, seja bem vindo ao meu perfil! ;"
+# 🤖 echo "Hello world, eu sou o Hugo, programador  e aluno do IFSP Guarulhos, seja bem vindo ao meu perfil! ;"
 
 ---
 
